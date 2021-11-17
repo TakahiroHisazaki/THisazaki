@@ -56,8 +56,6 @@ contextlib2==0.6.0.post1
 cryptography @ file:///C:/ci/cryptography_1616769344312/work
 cycler==0.10.0
 Cython @ file:///C:/ci/cython_1618435363327/work
-'gt' は、内部コマンドまたは外部コマンド、
-操作可能なプログラムまたはバッチ ファイルとして認識されていません。
 cytoolz==0.11.0
 dask @ file:///tmp/build/80754af9/dask-core_1617390489108/work
 decorator @ file:///tmp/build/80754af9/decorator_1617916966915/work
