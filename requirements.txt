@@ -1,1 +1,11 @@
 streamlit==1.2.0
+gitdb==4.0.9
+GitPython==3.1.24
+glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
+google-api-core==2.2.2
+google-auth==2.3.3
+google-cloud-speech==2.11.1
+googleapis-common-protos==1.53.0
+greenlet @ file:///C:/ci/greenlet_1611958565931/work
+grpcio==1.41.1
+grpcio-status==1.41.1
