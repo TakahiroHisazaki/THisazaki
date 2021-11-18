@@ -1,7 +1,6 @@
 streamlit
-gitdb
-GitPython
 google-api-core
+google-auth
 google-cloud-speech
 googleapis-common-protos
 grpcio
