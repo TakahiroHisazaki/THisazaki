@@ -1,7 +1,11 @@
-streamlit
+gitdb
+GitPython
 google-api-core
 google-auth
+google-auth-oauthlib
 google-cloud-speech
+google-pasta
 googleapis-common-protos
 grpcio
 grpcio-status
+streamlit
