@@ -5,6 +5,5 @@ google-api-core==2.2.2
 google-auth==2.3.3
 google-cloud-speech==2.11.1
 googleapis-common-protos==1.53.0
-greenlet @ file:///C:/ci/greenlet_1611958565931/work
 grpcio==1.41.1
 grpcio-status==1.41.1
