@@ -34,7 +34,7 @@ def transcribe_file(content, lang='英語'):
 
 st.title('音声文字起こしアプリ')
 st.header('概要')
-st.write('こちらは音声ファイルを読み込んで文字起こしできるアプリです。Google Cloud Speech-to-Textを利用しています。リンクは下記です。')
+st.write('こちらは音声ファイルを読み込んで文字起こしができるアプリです。音声認識AIを搭載したGoogle Cloud Speech-to-Textを利用しています。リンクは下記です。')
 st.markdown('<a href="https://cloud.google.com/speech-to-text">Cloud Speech-to-Text</a>', unsafe_allow_html=True)
 
 upload_file=st.file_uploader('ファイルのアップロード',type={'mp3','wav'})
