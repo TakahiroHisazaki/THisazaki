@@ -5,7 +5,7 @@ from google.cloud import speech
 
 import streamlit as st
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'jsonfile1.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'secretkey.json'
 
 def transcribe_file(content, lang='英語'):
     lang_code={
